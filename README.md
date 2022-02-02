@@ -1,16 +1,52 @@
-### Hi there 👋
+# H1
+## H2
 
-<!--
-**SeyitKoyuncu/SeyitKoyuncu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- BOLD -->
+**Bold text**
 
-Here are some ideas to get you started:
+<!-- Italic text -->
+*Italic text*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Strikethrugh-->
+~~üstü çizili text~~
+
+<!-- Quoting -->
+
+> "Alıntı sözler için kullanılır "
+
+<!--Lınks -->
+
+Go to [Google](htps:/www.google.com)
+Go to [ınstagram] [Instagrram] <!-- variable ile link koyma -->
+
+<!-- Variable -->
+
+[Instagrram]: https:/www.instagram.com
+
+<!-- Image -->
+[Octocat] ("https://octodex.github.com/images/yaktocat.png")
+
+<img src="https://octodex.github.com/images/yaktocat.png" style="height: 500px; width:500px;"/>
+
+<!-- list -->
+
+1. A
+2. B
+
+* A
+* B
+
+
+<!--Task List-->
+
+- [x] Task 1
+- [] Task 2
+
+<!--EMOJİ -->
+
+:two_hearts:
+
+'''bash
+    git clone http://github.blabla
+'''
+
