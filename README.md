@@ -40,7 +40,7 @@ Go to [ınstagram] [Instagrram] <!-- variable ile link koyma -->
 <!--Task List-->
 
 - [x] Task 1
-- [] Task 2
+- [ ] Task 2
 
 <!--EMOJİ -->
 
@@ -48,5 +48,6 @@ Go to [ınstagram] [Instagrram] <!-- variable ile link koyma -->
 
 '''bash
     git clone http://github.blabla
+    cd /codingblalba
 '''
 
