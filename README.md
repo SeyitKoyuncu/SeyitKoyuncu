@@ -37,7 +37,7 @@
 
 <details>
     <summary>:bulb: Most Used Languages </summary>
-    <img src = https://github-readme-stats.vercel.app/api/top-langs/?username=SeyitKoyuncu&layout=compact>
+    <img src = https://github-readme-stats.vercel.app/api/top-langs/?username=SeyitKoyuncu&layout=compact&theme=radical>
 </details>
 
 [Twitter]: https://twitter.com/seyitkoyuncu_
